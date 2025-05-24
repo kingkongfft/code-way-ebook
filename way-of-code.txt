@@ -1,5 +1,6 @@
-THE WAY
-OF CODE
+## from https://www.thewayofcode.com/
+
+THE WAY OF CODE
 The Timeless Art of Vibe Coding
 Based on Lao Tzu
 Adapted by Rick Rubin
